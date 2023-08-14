@@ -1,1 +1,1 @@
-web: python3 bot.py
+wroker: python3 bot.py
