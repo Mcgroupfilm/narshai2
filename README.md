@@ -1,4 +1,4 @@
-<p align="center">
+ <p align="center">
   <img src="https://telegra.ph/file/171925d184de01b3055dc.jpg" alt="DQ-The-File-Donor Logo">
 </p>
 <h1 align="center">
@@ -120,7 +120,7 @@
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/azanhelpdesk/DQ-_TOM">
+<a href="https://heroku.com/deploy?template=https://github.com/Thirank/narshai2">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy To Heroku">
 </a>
 </p>
